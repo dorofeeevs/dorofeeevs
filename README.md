@@ -3,10 +3,10 @@
 
 <h1 align="left">ℹ️About me</a>
 <h3 align="center"><img width="600" 
-alt="Снимок экрана 2022-08-17 в 15 01 07" src="https://user-images.githubusercontent.com/58693867/185113896-cdc7ec98-b06c-4e9e-9a0a-9fce9f7b8fba.png"></h3>
+alt="Снимок экрана 2022-08-17 в 15 01 07" src="https://user-images.githubusercontent.com/58693867/185113896-cdc7ec98-b06c-4e9e-9a0a-9fce9f7b8fba.png"</h3>
 
 <h1 align="left">📫Contact with me</a>
-<h3 align="left"><img width="50"[![telegram](https://user-images.githubusercontent.com/58693867/185129281-da87e1f9-77c4-45e5-ae3d-b3db8db33bce.png)](t.me/dorofeevs)</h3>
+<h3 align="left"><img width="50" [![telegram](https://user-images.githubusercontent.com/58693867/185129281-da87e1f9-77c4-45e5-ae3d-b3db8db33bce.png)](t.me/dorofeevs)</h3>
 
   
 <!--
