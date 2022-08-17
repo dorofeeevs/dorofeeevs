@@ -1,5 +1,3 @@
-### Hey👋, I am Sasha👨‍💻!
-
 <h1 align="center">Hey, I'm Sasha👨‍💻</a> 
 <h3 align="center">I am an iOS Developer. I am passionate about technologies and love to learn new things.</h3>
 
