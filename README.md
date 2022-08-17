@@ -6,7 +6,7 @@
 alt="Снимок экрана 2022-08-17 в 15 01 07" src="https://user-images.githubusercontent.com/58693867/185113896-cdc7ec98-b06c-4e9e-9a0a-9fce9f7b8fba.png"</h3>
 
 <h1 align="left">📫Contact with me</a>
-<h3 align="left"> [Telegram](https://t.me/dorofeevs)</h3>
+<h3 align="left"> <a href="https://t.me/dorofeevs"><img src="![telegram](https://user-images.githubusercontent.com/58693867/185145158-16e269c6-45dd-4f1b-b9d4-4f4f951a7356.png)" alt=""></a>
 
   
 <!--
