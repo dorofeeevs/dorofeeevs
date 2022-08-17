@@ -4,7 +4,7 @@
 <h1 align="left">ℹ️About me</a>
 
 
-<img width="300" alt="Снимок экрана 2022-08-17 в 15 01 07" src="https://user-images.githubusercontent.com/58693867/185113896-cdc7ec98-b06c-4e9e-9a0a-9fce9f7b8fba.png">
+<img width="500" alt="Снимок экрана 2022-08-17 в 15 01 07" src="https://user-images.githubusercontent.com/58693867/185113896-cdc7ec98-b06c-4e9e-9a0a-9fce9f7b8fba.png">
 
   
 <!--
