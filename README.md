@@ -6,11 +6,12 @@
   "Swift",
   "Objective-C",
   "A little JAVA for Android",
-  "A little C#"]</h3>
+  "A little C#"],
+  "A little java script"</h3>
 <h3 align="center"> let wrappers: [String] = [
   "A little ReactNative",
   "A little Unity",
-  "A litle DotNet"</h3>
+  "A little DotNet"</h3>
   
 <!--
 **dorofeeevs/dorofeeevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
