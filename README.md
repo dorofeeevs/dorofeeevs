@@ -5,7 +5,7 @@
 <h3 align="center"><img width="600" alt="Снимок экрана 2022-08-17 в 15 01 07" src="https://user-images.githubusercontent.com/58693867/185113896-cdc7ec98-b06c-4e9e-9a0a-9fce9f7b8fba.png"></h3>
 
 <h1 align="left">📫Contact with me</a>
-<h3 align="center"><img width="50" atl="telegram" src="https://user-images.githubusercontent.com/58693867/185124133-9db46f7a-617e-4cea-b771-1f998977841b.png"></h3>
+<h3 align="left"><img width="50" [atl="telegram" src="https://user-images.githubusercontent.com/58693867/185124133-9db46f7a-617e-4cea-b771-1f998977841b.png"](t.me/dorofeevs)></h3>
 
   
 <!--
