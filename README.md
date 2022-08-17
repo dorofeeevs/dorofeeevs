@@ -1,6 +1,7 @@
 <h1 align="center">Hey, I'm Sasha👨‍💻</a> 
 <h3 align="center">I am an iOS developer. I am fond of technology and love to learn something new.</h3>
 
+<h1 align="center">ℹ️About me</a>
 <!--
 **dorofeeevs/dorofeeevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
