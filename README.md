@@ -7,6 +7,8 @@ alt="Снимок экрана 2022-08-17 в 15 01 07" src="https://user-images.
 
 <h1 align="left">📫Contact with me</a>
 <h3 align="left"> <a href="https://t.me/dorofeevs"><img width="50" src="https://user-images.githubusercontent.com/58693867/185145158-16e269c6-45dd-4f1b-b9d4-4f4f951a7356.png" alt="telegram"></a>
+<h3 align="left"> <a href="https://www.linkedin.com/in/aleksandr-dorofeev-5b079a231"><img width="50" src="https://user-images.githubusercontent.com/58693867/185146033-ec1b4956-984c-416b-9ada-753efe304e5c.png" alt="145807"></a>
+  
 
   
 <!--
