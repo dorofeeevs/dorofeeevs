@@ -12,8 +12,6 @@ alt="Снимок экрана 2022-08-17 в 15 01 07" src="https://user-images.
 <a href="https://github.com/aleksandr-dorofeev"><img width="48px" src="https://user-images.githubusercontent.com/58693867/185147105-7380d453-460d-482b-ac93-c53b3aaa5187.png" alt="145807" />
 
 <br />
-<br />
-<br />
   
 <!--
 **dorofeeevs/dorofeeevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
