@@ -9,7 +9,7 @@ alt="Снимок экрана 2022-08-17 в 15 01 07" src="https://user-images.
   
 <a href="https://www.linkedin.com/in/aleksandr-dorofeev-5b079a231/" target="_blank"><img align="left" width="48px" src="https://user-images.githubusercontent.com/28134310/153570070-7b4df2bb-7fc0-43f0-97a9-b084787934d9.png" />
 <a href="https://t.me/dorofeevs" target="_blank"><img align="left" width="48px" src="https://user-images.githubusercontent.com/28134310/153570078-7c753dbe-4671-48bb-a805-a266afa28a53.png" />
-<h3 align="left"> <a href="https://github.com/aleksandr-dorofeev"><img width="48px" src="https://user-images.githubusercontent.com/58693867/185147105-7380d453-460d-482b-ac93-c53b3aaa5187.png" alt="145807" />
+<a href="https://github.com/aleksandr-dorofeev"><img width="48px" src="https://user-images.githubusercontent.com/58693867/185147105-7380d453-460d-482b-ac93-c53b3aaa5187.png" alt="145807" />
 
 <br />
 <br />
